@@ -32,6 +32,13 @@ img {
 address {
   font-style: normal;
 }
+.container {
+  width: ;
+  padding-left: ;
+  padding-right: ;
+  margin: 0 auto;
+  outline: 2px solid red;
+}
 .header {
 }
 .header-navigation {
