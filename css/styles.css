@@ -143,12 +143,19 @@ address {
 }
 /*==================================*/
 .accomplishments {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
+
 .accomplishments-list {
+  display: flex;
+  gap: 24px;
 }
 .accomplishments-item {
+  width: 264px;
 }
 .accomplishments-subtitle {
+  margin-bottom: 8px;
 }
 .accomplishments-item-text {
 }
