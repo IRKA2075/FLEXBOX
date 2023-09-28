@@ -35,13 +35,13 @@ address {
 .container {
   width: 1158px;
   padding-left: 15px;
-  padding: right 15px;
+  padding-right: 15px;
   margin: 0 auto;
+  display: flex;
   outline: 2px solid red;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
-  display: flex;
 }
 .header-navigation {
   display: flex;
