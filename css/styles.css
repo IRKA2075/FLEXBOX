@@ -62,6 +62,7 @@ address {
 }
 .header-pathlogo {
   color: #2e2f42;
+  display: inline-block;
 }
 .header-menu-list {
   display: flex;
