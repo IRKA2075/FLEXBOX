@@ -202,6 +202,9 @@ address {
   text-align: center;
 }
 .our-portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 }
 .our-portfolio-title {
   font-size: 36px;
@@ -210,10 +213,21 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .our-portfolio-list {
+   display: flex;
+   flex-wrap: wrap;
+   column-gap: 24px; 
+   row-gap: 48px;
 }
 .our-portfolio-item {
+  width: 360px;
+}
+.application{
+   padding: 32px 16px;
+   border: 1px solid #e7e9fc; 
+   border-top: none; 
 }
 .our-portfolio-subtitle {
   font-weight: 500;
@@ -221,6 +235,7 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .our-portfolio-text {
   font-size: 16px;
