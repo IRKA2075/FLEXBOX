@@ -57,6 +57,8 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+  display: inline-block; 
+  margin-bottom: 16px; 
 }
 .header-pathlogo {
   color: #2e2f42;
@@ -207,13 +209,14 @@ address {
 }
 }
 .our-portfolio-title {
+  margin-bottom: 72px;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-bottom: 72px;
+  
 }
 .our-portfolio-list {
    display: flex;
@@ -251,9 +254,11 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 100px 0;
 }
 .footer-pathlogo {
   color: #f4f4fd;
+  max-width: 264px;
 }
 
 .accomplishments-subtitle {
