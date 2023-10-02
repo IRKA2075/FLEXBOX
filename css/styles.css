@@ -56,7 +56,6 @@ address {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  margin-right: 76px;
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -259,6 +258,7 @@ address {
   color: #f4f4fd;
   max-width: 264px;
 }
+/*=======================================*/
 
 .accomplishments-subtitle {
   font-family: "Roboto", sans-serif;
