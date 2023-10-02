@@ -38,7 +38,6 @@ address {
   padding-right: 15px;
   margin: 0 auto;
   display: flex;
-  outline: 2px solid red;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -55,6 +54,7 @@ address {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  margin-right: 74px;
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
