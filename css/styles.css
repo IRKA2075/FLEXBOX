@@ -269,6 +269,7 @@ address {
 }
 .footer-logo {
   margin-bottom: 16px;
+  display: inline-block;
 }
 .footer-pathlogo {
   color: #f4f4fd;
